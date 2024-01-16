@@ -22,7 +22,7 @@ Before running the bot, make sure you have the following dependencies installed:
 
 
 ##     <p align = "left"> How to use </p>
-1. Clone the repository to your local machine:   git clone https://github.com/NadavIs56/autogpt-telegram-bot.git
+1. Clone the repository to your local machine
 
 2. Navigate to the project directory:   cd autogpt-telegram-bot
 
